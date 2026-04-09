@@ -1,17 +1,3 @@
-### dns.geohide.ru: hosts file
-# Последнее обновление: 19 февраля 2026
-# Домены взяты из этих источников:
-# https://dns.geohide.ru:8443
-# https://info.dns.malw.link/hosts
-# https://iplist.opencck.org/ru
-# https://freedom.mafioznik.xyz/file/hosts
-# Только эти серверы принадлежат GeoHide DNS:
-# 45.155.204.190
-# 95.182.120.241
-# 31.25.239.132
-# В итоговом hosts указанно меньше сайтов чем проксируется через DNS.
-
-# AMD
 45.155.204.190 amd.com
 95.182.120.241 amd.com
 45.155.204.190 www.amd.com
@@ -698,4 +684,3 @@
 95.182.120.241 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 95.182.120.241 windsurf.com
-### dns.geohide.ru: end hosts file
