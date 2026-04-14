@@ -1,3 +1,4 @@
+
 # Canva
 45.155.204.190 canva.com
 95.182.120.241 canva.com
@@ -488,6 +489,29 @@
 45.155.204.190 www.spotify.com
 95.182.120.241 www.spotify.com
 
+# Supercell
+179.43.148.133 game.brawlstarsgame.com
+31.25.239.132 accounts.supercell.com
+31.25.239.132 cdn.id.supercell.com
+31.25.239.132 clashofclans.inbox.supercell.com
+31.25.239.132 game-assets.brawlstarsgame.com
+31.25.239.132 game-assets.clashofclans.com
+31.25.239.132 game-assets.clashroyaleapp.com
+31.25.239.132 game.boombeachgame.com
+31.25.239.132 game.mocogame.com
+31.25.239.132 security.id.supercell.com
+31.25.239.132 store.supercell.com
+31.7.60.154 game.clashroyaleapp.com
+31.7.60.155 gamea.clashofclans.com
+31.7.60.156 game.squadbustersgame.com
+31.7.60.157 game.mocogame.com
+
+# Truth Social
+45.155.204.190 truthsocial.com
+95.182.120.241 truthsocial.com
+45.155.204.190 static-assets-1.truthsocial.com
+95.182.120.241 static-assets-1.truthsocial.com
+
 # Weather Underground
 45.155.204.190 wunderground.com
 95.182.120.241 wunderground.com
@@ -529,3 +553,4 @@
 95.182.120.241 windsurf-telemetry.codeium.com
 45.155.204.190 windsurf.com
 95.182.120.241 windsurf.com
+### dns.geohide.ru: end hosts file
